@@ -4,15 +4,19 @@ subtitle: "This time, I will make sure all are completed"
 date: "12-31-2023"
 ---
 
-I remember January 1st, 2023. It was the coldest day yet in Riyadh and we were heading to school. All the students were fast asleep in the bus and dreaded the moment when the bus would reach school. Fast forward 12 months, I have completed an 1️⃣/8️⃣ of my degree.
+I remember January 1st, 2023. It was the coldest day yet in Riyadh and we were heading to school. All the students were fast asleep in the bus and dreaded the moment when the bus would reach school. Fast forward 12 months, I have completed an 1️⃣ / 8️⃣ of my degree.
 
 2023 was a tough one, but I feel I came out stronger than ever. I am glad to say that I *think* I have completed all the goals I set for 2023.
+
+![Me on the graduation stage](/images/graduation.jpg)
 
 Without further a do, let's go through the goals I have set for this year.
 
 ## Complete at least 12 courses in university
 
 With two study terms and a work term in the following year, I hope to take at least 12 courses throughout those terms.
+
+![Snowy day at Waterloo](/images/snowy-day.jpg)
 
 As of now, I have two choices:
 
@@ -27,6 +31,8 @@ My aim is to try and complete at least 5 courses during the work terms to gain a
 
 ## Get a good coop job
 
+![Rainy day](/images/rainy-day.jpg)
+
 After reading a countless number of Reddit posts on finding the first coop job, I realised it is __TOUGH__.
 
 Although I have quite a bit of experience in programming, particularly in __web development__ and some experience with __data-related__ programs and __machine learning__, I am not sure if it is enough for the competitiveness of coop search.
@@ -39,7 +45,7 @@ I think getting a good grasp of C++ will really help learning other languages an
 
 R is the language of choice for most of the STAT and ECON courses I have next year. Even though R has become the Doc Hudson of data science, I think it is still worth learning for a much more hands-on and fundamental experience with data science.
 
-## Learn Machine Learning
+## Learn machine learning
 
 As of now, I am starting to really understand machine learning, learning about things like *regression*, *classification*, *neural networks* and *model optimisation*.
 
@@ -47,9 +53,13 @@ However, I do wish to continue learning machine learning and the the processes a
 
 The latter of the 3 is one which I feel will really elevate my skills. I might do the [AWS Machine Learning Speciality Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) since I have experience with AWS.
 
+![AWS Machine Learning Speciality](/images/aws-machine-learning.png)
+
 ## Pay for my own flight tickets
 
 This is my motivation to start making some money. If I don't make enough money to pay for flights tickets from Toronto to Riyadh, then *I am not coming for that holiday*.
+
+![Riyadh](/images/riyadh.png)
 
 I have explored quite a few options and will try them out and will hope for best. Here are some options I am going to try out:
 
