@@ -25,7 +25,7 @@ As of now, I have two choices:
 
 The first option is better in terms of comfort, since each term has an easy number of courses. However, it is cost-inefficient, since I will have to pay almost *$1800 more*.
 
-The second option is much more cose-efficient but at the cost of a medium but still doable number of courses.
+The second option is much more cost-efficient but at the cost of a medium but still doable number of courses.
 
 My aim is to try and complete at least 5 courses during the work terms to gain an advantage in upcoming work terms and potentially reduce the degree duration.
 
